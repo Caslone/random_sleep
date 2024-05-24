@@ -1,5 +1,7 @@
 body {
-    font-family: Arial, sans-serif;
+    /*font-family: Arial, sans-serif;*/
+    font-family: 'Inter Tight', sans-serif;
+    font-weight: 600;
     display: flex;
     flex-direction: column;
     align-items: center;
